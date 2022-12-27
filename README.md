@@ -7,6 +7,7 @@
 * Build: Alpha
 * Creation date 22/12/2022
 * Modification date: 27/12/2022
+* Languages supported: en-US, pt-BR
 
 ## 🎮[**Live Preview**](https://arkcivilization.netlify.app/ "Live Preview")
-## 📰[**Updates**](https://ttisoftwares.notion.site/ARK-Civilization-Updates-0ed21a35aa664ae0950f300a1759078e "**Updates**") (PT-BR)
+## 📰[**Updates**](https://ttisoftwares.notion.site/ARK-Civilization-Updates-0ed21a35aa664ae0950f300a1759078e "**Updates**") (pt-BR)
